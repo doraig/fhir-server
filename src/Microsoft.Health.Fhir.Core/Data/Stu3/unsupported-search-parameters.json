@@ -1,6 +1,5 @@
 {
     "Unsupported": [
-        "http://hl7.org/fhir/SearchParameter/Account-balance",
         "http://hl7.org/fhir/SearchParameter/ActivityDefinition-version",
         "http://hl7.org/fhir/SearchParameter/AuditEvent-altid",
         "http://hl7.org/fhir/SearchParameter/AuditEvent-site",
@@ -8,7 +7,6 @@
         "http://hl7.org/fhir/SearchParameter/Bundle-message",
         "http://hl7.org/fhir/SearchParameter/CapabilityStatement-fhirversion",
         "http://hl7.org/fhir/SearchParameter/CapabilityStatement-version",
-        "http://hl7.org/fhir/SearchParameter/ChargeItem-price-override",
         "http://hl7.org/fhir/SearchParameter/CodeSystem-version",
         "http://hl7.org/fhir/SearchParameter/ConceptMap-source-uri",
         "http://hl7.org/fhir/SearchParameter/ConceptMap-target-uri",
